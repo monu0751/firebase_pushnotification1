@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "813350852564",
+    "firebase_url": "https://pushnotificationfirebase-45c73.firebaseio.com",
+    "project_id": "pushnotificationfirebase-45c73",
+    "storage_bucket": "pushnotificationfirebase-45c73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813350852564:android:a9b97381e188b0b1",
+        "android_client_info": {
+          "package_name": "com.example.firebase_pushnotification_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813350852564-a1g1ebkl980q6uo1fnnig2i3hl2bfpon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8vocOm-HYyQH3UR-o3Y5DPqCNZeI3EBs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813350852564:android:7bd71543f89d056a",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813350852564-a1g1ebkl980q6uo1fnnig2i3hl2bfpon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8vocOm-HYyQH3UR-o3Y5DPqCNZeI3EBs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813350852564:android:480253e8866ec0e7",
+        "android_client_info": {
+          "package_name": "com.example.firebasepushnotificationapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813350852564-a1g1ebkl980q6uo1fnnig2i3hl2bfpon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8vocOm-HYyQH3UR-o3Y5DPqCNZeI3EBs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
